@@ -30,3 +30,9 @@ A sophisticated tool designed to simulate Man-in-the-Middle (MitM) attacks throu
   Intelligent MAC address discovery and error handling.
 
   Automatic network restoration feature to ensure connectivity after testing.
+
+
+
+---
+## 📄 License
+This project is licensed under the MIT License.
